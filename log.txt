@@ -1,0 +1,113 @@
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+************************ DEFAULT - NO ENTRY *************************
+This is not a recognized command.
+Please enter one of the following commands:
+1. To search OMDB for a movie title: node liri.js movie-this <movie title>
+2. To search Spotify for a song title: node liri.js spotify-this-song <song title>
+3. To see the last 20 of my Twitter tweets: node liri.js my-tweets
+4. For a random search: node liri.js do-what-it-says
+*********************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+
+********************************** MOVIE THIS **********************************
+Title: Spaceballs
+Release Year: 1987
+IMDB Rating: 7.1
+Rotten Tomatoes Rating: 58%
+Country movie produced in: USA
+Language: English
+Plot: A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.
+Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Spotify could not find a song with that title. Please try Again.
+********************************************************************************
+************************ DEFAULT - NO ENTRY *************************
+This is not a recognized command.
+Please enter one of the following commands:
+1. To search OMDB for a movie title: node liri.js movie-this <movie title>
+2. To search Spotify for a song title: node liri.js spotify-this-song <song title>
+3. To see the last 20 of my Twitter tweets: node liri.js my-tweets
+4. For a random search: node liri.js do-what-it-says
+*********************************************************************
+
+********************************** MOVIE THIS **********************************
+Title: Spaceballs
+Release Year: 1987
+IMDB Rating: 7.1
+Rotten Tomatoes Rating: 58%
+Country movie produced in: USA
+Language: English
+Plot: A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.
+Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
+********************************************************************************
+
+********************************** MOVIE THIS **********************************
+Title: Blazing Saddles
+Release Year: 1974
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 90%
+Country movie produced in: USA
+Language: English, Yiddish, German
+Plot: In order to ruin a western town, a corrupt politician appoints a black Sheriff, who promptly becomes his most formidable adversary.
+Actors: Cleavon Little, Gene Wilder, Slim Pickens, Harvey Korman
+********************************************************************************

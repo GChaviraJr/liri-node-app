@@ -6,6 +6,7 @@ const request = require("request")
 const fs = require("fs")
 let BandsInTownEvents = require("bandsintown-events")
 const XHR2 = require("xhr2")
+const moment = require("moment")
 
 // access keys.js to get SPOTIFY and BANDSINTOWN api access
 const keys = require("./keys.js")
@@ -133,7 +134,7 @@ function movieInfo() {
 // what to do if no title entered
 function concert() {
     if (process.argv[3] === undefined) {
-        title = "!!!!!No Concert data - Please Try Again!!!!!"
+        title = "Beyonce"
         concertInfo()
     } else if (title !== undefined) {
         titleSplit = title.split(" ")
@@ -144,18 +145,19 @@ function concert() {
 
 // Bandsintown api call and return info
 
+
 function concertInfo() {
-    var queryUrl = "https://rest.bandsintown.com/artists/" + title + "/events?app_id=" + keys.bandsInTown + "&tracker_count=10"
-    request(queryUrl, function(error, response, body) {
-      if (!error && response.statusCode === 200) {
-          console.log(keys.bandsInTown)
-        for (var event in body) {
-            var logConcert =
-            "\n***************** Concert This ******************"
-            "\nVenue Name: " + [event].venue.name +
-            "\nVenue Location: " + [event].venue.city +
-            "\nEvent Date: " + [event].datetime +
-            "\nLineup: " + [event].lineup
+    let artist = process.argv.slice(3).join(" ")
+    let queryURL = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=" + keys.bandsInTown
+    request(queryURL, function (error, response, body) {
+        if (error) console.log(error)
+        let result = JSON.parse(body)[0]
+        let logConcert =
+            "\n***************** Concert This ******************" +
+        "\nLineup " + result.lineup +
+            "\nVenue Name: " + result.venue.name +
+            "\nVenue Location: " + result.venue.city +
+            "\nVenue Event Date: " + moment(result.datetime).format("MM/DD/YYYY") +
             "\n**************************************************\n"
         console.log(logConcert)
         fs.appendFile("log.txt", logConcert, function (err) {
@@ -163,12 +165,38 @@ function concertInfo() {
                 return console.log("Concert data was not appended to the log.txt file.")
             }
         })
-        }
-      }
     })
-  }
-        
-      
+}
+
+
+
+// function concertInfo() {
+//     var queryUrl = "https://rest.bandsintown.com/artists/" + title + "/events?app_id=" + keys.bandsInTown + "&date=upcoming"
+//     request(queryUrl, function(error, response, body) {
+//       if (!error && response.statusCode === 200) {
+//         for (var event in body) {
+//             var logConcert =
+//             "\n***************** Concert This ******************"
+//             "\nArtist: " + title
+//             "\nVenue Name: " + response.event +
+//             "\nVenue City: " + response.venue.city +
+//             "\nVenue Region" + response.venue.region +
+//             "\nVenue Country" + response.venue.country +
+//             "\nEvent Date: " + response.event.datetime +
+//             "\nLineup: " + response.event.lineup
+//             "\n**************************************************\n"
+//         console.log(logConcert)
+//         fs.appendFile("log.txt", logConcert, function (err) {
+//             if (err) {
+//                 return console.log("Concert data was not appended to the log.txt file.")
+//             }
+//         })
+//         }
+//       }
+//     })
+//   }
+
+
 
 
 

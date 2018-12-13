@@ -141,7 +141,7 @@ function movieInfo() {
 // Call concert() function
 function concert() {
     if (process.argv[3] === undefined) {
-        title = "Beyonce"
+        title = "a day to remember"
         concertInfo()
     } else if (title !== undefined) {
         concertInfo()

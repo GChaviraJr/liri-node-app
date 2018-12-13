@@ -527,3 +527,18 @@ Venue Name: Pa'l Norte Festival (March 22-23)
 Venue Location: Monterrey
 Venue Event Date: 03/22/2019
 **************************************************
+************************ DEFAULT - NO ENTRY *************************
+This is not a recognized command.
+Please enter one of the following commands:
+1. To search OMDB for a movie title: node liri.js movie-this <movie title>
+2. To search Spotify for a song title: node liri.js spotify-this-song <song title>
+3. To check for band shows in your area: node liri.js concert-this <artist name>
+4. For a random search: node liri.js do-what-it-says
+*********************************************************************
+
+***************** SPOTIFY THIS SONG ******************
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Album name: The Hits--Chapter One
+URL Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=24dbe1c645c74d09bd4ac5df53ff856d
+*******************************************************

@@ -22,8 +22,8 @@ let title = ""
 if (process.argv[3] !== undefined) {
     for (i = 3; i < infoEntered.length; i++) {
         title += infoEntered[i] + " "
-    };
-};
+    }
+}
 
 
 // what to do with data entered into terminal
@@ -45,7 +45,14 @@ switch (action) {
         break;
 
     default:
-        let logDefault = "************************ DEFAULT - NO ENTRY *************************\nThis is not a recognized command.\nPlease enter one of the following commands:\n1. To search OMDB for a movie title: node liri.js movie-this <movie title>\n2. To search Spotify for a song title: node liri.js spotify-this-song <song title>\n3. To see the last 20 of my Twitter tweets: node liri.js my-tweets\n4. For a random search: node liri.js do-what-it-says\n*********************************************************************\n"
+        let logDefault = "************************ DEFAULT - NO ENTRY *************************" + 
+        "\nThis is not a recognized command." +
+        "\nPlease enter one of the following commands:" +
+        "\n1. To search OMDB for a movie title: node liri.js movie-this <movie title>" + 
+        "\n2. To search Spotify for a song title: node liri.js spotify-this-song <song title>" +
+        "\n3. To check for band shows in your area: node liri.js concert-this <artist name>" +
+        "\n4. For a random search: node liri.js do-what-it-says" +
+        "\n*********************************************************************\n"
         console.log(logDefault)
         fs.appendFile("log.txt", logDefault, function (err) {
             if (err) {
@@ -131,20 +138,17 @@ function movieInfo() {
 }
 
 // *********************** Bandsintown ***********************
-// what to do if no title entered
+// Call concert() function
 function concert() {
     if (process.argv[3] === undefined) {
         title = "Beyonce"
         concertInfo()
     } else if (title !== undefined) {
-        titleSplit = title.split(" ")
-        title = titleSplit.join("%20")
         concertInfo()
     }
 }
 
 // Bandsintown api call and return info
-
 
 function concertInfo() {
     let artist = process.argv.slice(3).join(" ")
@@ -167,37 +171,6 @@ function concertInfo() {
         })
     })
 }
-
-
-
-// function concertInfo() {
-//     var queryUrl = "https://rest.bandsintown.com/artists/" + title + "/events?app_id=" + keys.bandsInTown + "&date=upcoming"
-//     request(queryUrl, function(error, response, body) {
-//       if (!error && response.statusCode === 200) {
-//         for (var event in body) {
-//             var logConcert =
-//             "\n***************** Concert This ******************"
-//             "\nArtist: " + title
-//             "\nVenue Name: " + response.event +
-//             "\nVenue City: " + response.venue.city +
-//             "\nVenue Region" + response.venue.region +
-//             "\nVenue Country" + response.venue.country +
-//             "\nEvent Date: " + response.event.datetime +
-//             "\nLineup: " + response.event.lineup
-//             "\n**************************************************\n"
-//         console.log(logConcert)
-//         fs.appendFile("log.txt", logConcert, function (err) {
-//             if (err) {
-//                 return console.log("Concert data was not appended to the log.txt file.")
-//             }
-//         })
-//         }
-//       }
-//     })
-//   }
-
-
-
 
 
 // *********************** Spotify *************************

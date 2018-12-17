@@ -1,490 +1,17 @@
 
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-************************ DEFAULT - NO ENTRY *************************
-This is not a recognized command.
-Please enter one of the following commands:
-1. To search OMDB for a movie title: node liri.js movie-this <movie title>
-2. To search Spotify for a song title: node liri.js spotify-this-song <song title>
-3. To see the last 20 of my Twitter tweets: node liri.js my-tweets
-4. For a random search: node liri.js do-what-it-says
-*********************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-********************************** MOVIE THIS **********************************
-Title: Spaceballs
-Release Year: 1987
-IMDB Rating: 7.1
-Rotten Tomatoes Rating: 58%
-Country movie produced in: USA
-Language: English
-Plot: A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.
-Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-************************ DEFAULT - NO ENTRY *************************
-This is not a recognized command.
-Please enter one of the following commands:
-1. To search OMDB for a movie title: node liri.js movie-this <movie title>
-2. To search Spotify for a song title: node liri.js spotify-this-song <song title>
-3. To see the last 20 of my Twitter tweets: node liri.js my-tweets
-4. For a random search: node liri.js do-what-it-says
-*********************************************************************
-
-********************************** MOVIE THIS **********************************
-Title: Spaceballs
-Release Year: 1987
-IMDB Rating: 7.1
-Rotten Tomatoes Rating: 58%
-Country movie produced in: USA
-Language: English
-Plot: A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.
-Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
-********************************************************************************
-
-********************************** MOVIE THIS **********************************
-Title: Blazing Saddles
-Release Year: 1974
-IMDB Rating: 7.8
-Rotten Tomatoes Rating: 90%
-Country movie produced in: USA
-Language: English, Yiddish, German
-Plot: In order to ruin a western town, a corrupt politician appoints a black Sheriff, who promptly becomes his most formidable adversary.
-Actors: Cleavon Little, Gene Wilder, Slim Pickens, Harvey Korman
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-********************************** MOVIE THIS **********************************
-Title: Spaceballs
-Release Year: 1987
-IMDB Rating: 7.1
-Rotten Tomatoes Rating: 58%
-Country movie produced in: USA
-Language: English
-Plot: A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.
-Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-********************************** MOVIE THIS **********************************
-Title: Spaceballs
-Release Year: 1987
-IMDB Rating: 7.1
-Rotten Tomatoes Rating: 58%
-Country movie produced in: USA
-Language: English
-Plot: A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.
-Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
+***************** SPOTIFY THIS SONG ******************
+Artist: The Goo Goo Dolls
+Song title: Iris
+Album name: Greatest Hits Volume One - The Singles
+URL Preview: https://p.scdn.co/mp3-preview/956923574bf91206435e9774d13f6dd775a49cab?cid=24dbe1c645c74d09bd4ac5df53ff856d
+*******************************************************
 
 ***************** SPOTIFY THIS SONG ******************
-Artist: Soulja Boy
-Song title: Kiss Me Thru The Phone
-Album name: iSouljaBoyTellem
+Artist: Queen
+Song title: Killer Queen - Remastered 2011
+Album name: Sheer Heart Attack (Deluxe Remastered Version)
 URL Preview: null
 *******************************************************
-
-***************** SPOTIFY THIS SONG ******************
-Artist: Soulja Boy
-Song title: Kiss Me Thru The Phone
-Album name: iSouljaBoyTellem
-URL Preview: null
-*******************************************************
-
-***************** SPOTIFY THIS SONG ******************
-Artist: XXXTENTACION
-Song title: NUMB
-Album name: ?
-URL Preview: null
-*******************************************************
-
-***************** SPOTIFY THIS SONG ******************
-Artist: Kansas
-Song title: Dust in the Wind
-Album name: Point Of Know Return
-URL Preview: https://p.scdn.co/mp3-preview/f86dfdfaca403adb32ee7a68b84e9953b0cc8572?cid=24dbe1c645c74d09bd4ac5df53ff856d
-*******************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-***************** SPOTIFY THIS SONG ******************
-Artist: Kansas
-Song title: Dust in the Wind
-Album name: Point Of Know Return
-URL Preview: https://p.scdn.co/mp3-preview/f86dfdfaca403adb32ee7a68b84e9953b0cc8572?cid=24dbe1c645c74d09bd4ac5df53ff856d
-*******************************************************
-
-****************************** SPOTIFY THIS SONG *******************************
-Spotify could not find a song with that title. Please try Again.
-********************************************************************************
-
-***************** SPOTIFY THIS SONG ******************
-Artist: Kansas
-Song title: Dust in the Wind
-Album name: Point Of Know Return
-URL Preview: https://p.scdn.co/mp3-preview/f86dfdfaca403adb32ee7a68b84e9953b0cc8572?cid=24dbe1c645c74d09bd4ac5df53ff856d
-*******************************************************
-
-***************** SPOTIFY THIS SONG ******************
-Artist: Kansas
-Song title: Dust in the Wind
-Album name: Point Of Know Return
-URL Preview: https://p.scdn.co/mp3-preview/f86dfdfaca403adb32ee7a68b84e9953b0cc8572?cid=34e84d93de6a4650815e5420e0361fd3
-*******************************************************
-
-***************** SPOTIFY THIS SONG ******************
-Artist: Kansas
-Song title: Dust in the Wind
-Album name: Point Of Know Return
-URL Preview: https://p.scdn.co/mp3-preview/f86dfdfaca403adb32ee7a68b84e9953b0cc8572?cid=24dbe1c645c74d09bd4ac5df53ff856d
-*******************************************************
-
-***************** SPOTIFY THIS SONG ******************
-Artist: Backstreet Boys
-Song title: I Want It That Way
-Album name: The Hits--Chapter One
-URL Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=24dbe1c645c74d09bd4ac5df53ff856d
-*******************************************************
-
-***************** SPOTIFY THIS SONG ******************
-Artist: Backstreet Boys
-Song title: I Want It That Way
-Album name: The Hits--Chapter One
-URL Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=24dbe1c645c74d09bd4ac5df53ff856d
-*******************************************************
-
-***************** SPOTIFY THIS SONG ******************
-Artist: Backstreet Boys
-Song title: I Want It That Way
-Album name: The Hits--Chapter One
-URL Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=24dbe1c645c74d09bd4ac5df53ff856d
-*******************************************************
-
-********************************** MOVIE THIS **********************************
-Title: Spaceballs
-Release Year: 1987
-IMDB Rating: 7.1
-Rotten Tomatoes Rating: 58%
-Country movie produced in: USA
-Language: English
-Plot: A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.
-Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
-********************************************************************************
-
-***************** SPOTIFY THIS SONG ******************
-Artist: New Found Glory
-Song title: All Downhill From Here
-Album name: Catalyst
-URL Preview: null
-*******************************************************
-
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-***************** Concert This ******************
-Venue Name: House of Blues
-Venue Location: Chicago
-Venue Event Date2018-12-21T19:00:29
-**************************************************
-
-***************** Concert This ******************
-Artist: all time low
-Venue Name: House of Blues
-Venue Location: Chicago
-Venue Event Date2018-12-21T19:00:29
-**************************************************
-
-***************** Concert This ******************
-Artist: all time low
-Venue Name: House of Blues
-Venue Location: Chicago
-Venue Event Date2018-12-21T19:00:29
-Lineup All Time Low
-**************************************************
-
-***************** Concert This ******************
-Lineup All Time Low
-Venue Name: House of Blues
-Venue Location: Chicago
-Venue Event Date2018-12-21T19:00:29
-**************************************************
-
-***************** Concert This ******************
-Lineup All Time Low
-Venue Name: House of Blues
-Venue Location: Chicago
-Venue Event Date12/21/2018
-**************************************************
 
 ***************** Concert This ******************
 Lineup All Time Low
@@ -493,48 +20,16 @@ Venue Location: Chicago
 Venue Event Date: 12/21/2018
 **************************************************
 
-***************** Concert This ******************
-Lineup All Time Low
-Venue Name: House of Blues
-Venue Location: Chicago
-Venue Event Date: 12/21/2018
-**************************************************
-
-***************** Concert This ******************
-Lineup All Time Low
-Venue Name: House of Blues
-Venue Location: Chicago
-Venue Event Date: 12/21/2018
-**************************************************
-
-***************** Concert This ******************
-Lineup All Time Low
-Venue Name: House of Blues
-Venue Location: Chicago
-Venue Event Date: 12/21/2018
-**************************************************
-
-***************** Concert This ******************
-Lineup New Found Glory
-Venue Name: Temple Newsam Park
-Venue Location: Leeds
-Venue Event Date: 05/25/2019
-**************************************************
-
-***************** Concert This ******************
-Lineup A Day To Remember
-Venue Name: Pa'l Norte Festival (March 22-23)
-Venue Location: Monterrey
-Venue Event Date: 03/22/2019
-**************************************************
-************************ DEFAULT - NO ENTRY *************************
-This is not a recognized command.
-Please enter one of the following commands:
-1. To search OMDB for a movie title: node liri.js movie-this <movie title>
-2. To search Spotify for a song title: node liri.js spotify-this-song <song title>
-3. To check for band shows in your area: node liri.js concert-this <artist name>
-4. For a random search: node liri.js do-what-it-says
-*********************************************************************
+********************************** MOVIE THIS **********************************
+Title: Spaceballs
+Release Year: 1987
+IMDB Rating: 7.1
+Rotten Tomatoes Rating: 58%
+Country movie produced in: USA
+Language: English
+Plot: A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.
+Actors: Mel Brooks, John Candy, Rick Moranis, Bill Pullman
+********************************************************************************
 
 ***************** SPOTIFY THIS SONG ******************
 Artist: Backstreet Boys
@@ -542,3 +37,39 @@ Song title: I Want It That Way
 Album name: The Hits--Chapter One
 URL Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=24dbe1c645c74d09bd4ac5df53ff856d
 *******************************************************
+
+________________________________________________________________________
+|______________________________ MOVIE THIS ____________________________|
+|Title: Blazing Saddles                                             |
+|Release Year: 1974                                       |
+|IMDB Rating: 7.8                                  |
+|Rotten Tomatoes Rating: 90%                 |
+|Country movie produced in: USA                       |
+|Language: English, Yiddish, German
+Plot: In order to ruin a western town, a corrupt politician appoints a black Sheriff, who promptly becomes his most formidable adversary.              |
+|Actors: Cleavon Little, Gene Wilder, Slim Pickens, Harvey Korman                                           |
+|______________________________________________________________________|
+
+________________________________________________________________________
+|______________________________ MOVIE THIS ____________________________|
+|Title: Blazing Saddles                                               |
+|Release Year: 1974                                                  |
+|IMDB Rating: 7.8                                             |
+|Rotten Tomatoes Rating: 90%                     |
+|Country movie produced in: USA                           |
+|Language: English, Yiddish, German
+Plot: In order to ruin a western town, a corrupt politician appoints a black Sheriff, who promptly becomes his most formidable adversary.              |
+|Actors: Cleavon Little, Gene Wilder, Slim Pickens, Harvey Korman |
+|______________________________________________________________________|
+
+________________________________________________________________________
+|______________________________ MOVIE THIS ____________________________|
+|Title: Blazing Saddles                                                |
+|Release Year: 1974                                                    |
+|IMDB Rating: 7.8                                                      |
+|Rotten Tomatoes Rating: 90%                                      |
+|Country movie produced in: USA                                     |
+|Language: English, Yiddish, German
+Plot: In order to ruin a western town, a corrupt politician appoints a black Sheriff, who promptly becomes his most formidable adversary.               |
+|Actors: Cleavon Little, Gene Wilder, Slim Pickens, Harvey Korman     |
+|______________________________________________________________________|

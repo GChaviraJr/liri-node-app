@@ -45,7 +45,7 @@ switch (action) {
         break;
 
     default:
-        let logDefault = "************************ DEFAULT - NO ENTRY *************************" + 
+        let logDefault = "______________________ DEFAULT - NO ENTRY _______________________" + 
         "\nThis is not a recognized command." +
         "\nPlease enter one of the following commands:" +
         "\n1. To search OMDB for a movie title: node liri.js movie-this <movie title>" + 
@@ -92,7 +92,7 @@ function movieInfo() {
                         }
                     })
                 } else if (data.Ratings.length < 2) {
-                    var logMovies = "\n********************************** MOVIE THIS **********************************\nTitle: " + data.Title +
+                    var logMovies = "\n______________________________MOVIE THIS ___________________________\nTitle: " + data.Title +
                         "\nRelease Year: " + data.Year +
                         "\nIMDB Rating: " + data.imdbRating +
                         "\nRotten Tomatoes Rating: No Rotten Tomatoes Rating\nCountry movie produced in: " + data.Country +
@@ -100,7 +100,7 @@ function movieInfo() {
                         "\nPlot: " + data.Plot +
                         "\nActors: " + data.Actors + "\n********************************************************************************\n"
                     console.log(logMovies)
-                    fs.appendFile("log.txt", logMovies, function (err) {
+                    fs.appendFile("random.txt", "\r\nmovie-this,"+ title, function (err) {
                         if (err) {
                             return console.log("Movie data did not append to log.txt file.")
                         }
@@ -108,15 +108,18 @@ function movieInfo() {
                     return
                 } else if (data.Ratings[1].Value !== undefined) {
                     var logMovies =
-                        "\n********************************** MOVIE THIS **********************************\nTitle: " + data.Title +
-                        "\nRelease Year: " + data.Year +
-                        "\nIMDB Rating: " + data.imdbRating +
-                        "\nRotten Tomatoes Rating: " + data.Ratings[1].Value +
-                        "\nCountry movie produced in: " + data.Country +
-                        "\nLanguage: " + data.Language + "\nPlot: " + data.Plot +
-                        "\nActors: " + data.Actors + "\n********************************************************************************\n"
+                        "\n________________________________________________________________________" +
+                        "\n|______________________________ MOVIE THIS ____________________________|" +
+                        "\n|Title: " + data.Title + "                                                |" +
+                        "\n|Release Year: " + data.Year + "                                                    |" +
+                        "\n|IMDB Rating: " + data.imdbRating + "                                                      |" +
+                        "\n|Rotten Tomatoes Rating: " + data.Ratings[1].Value + "                                      |" +
+                        "\n|Country movie produced in: " + data.Country + "                                     |" +
+                        "\n|Language: " + data.Language + "\nPlot: " + data.Plot + "               |" +
+                        "\n|Actors: " + data.Actors + "     |" +  
+                        "\n|______________________________________________________________________|\n"
                     console.log(logMovies)
-                    fs.appendFile("log.txt", logMovies, function (err) {
+                    fs.appendFile("random.txt", "\r\nmovie-this,"+ title, function (err) {
                         if (err) {
                             return console.log("Movie data did not append to log.txt file.")
                         }
@@ -157,14 +160,14 @@ function concertInfo() {
         if (error) console.log(error)
         let result = JSON.parse(body)[0]
         let logConcert =
-            "\n***************** Concert This ******************" +
+            "\n_____________________Concert This____________________" +
         "\nLineup " + result.lineup +
             "\nVenue Name: " + result.venue.name +
             "\nVenue Location: " + result.venue.city +
             "\nVenue Event Date: " + moment(result.datetime).format("MM/DD/YYYY") +
             "\n**************************************************\n"
         console.log(logConcert)
-        fs.appendFile("log.txt", logConcert, function (err) {
+        fs.appendFile("random.txt", "\r\nconcert-this,'"+ artist, function (err) {
             if (err) {
                 return console.log("Concert data was not appended to the log.txt file.")
             }
@@ -195,13 +198,13 @@ function spotifyInfo() {
         if (data) {
             var info = data.tracks.items
             var logSpotify =
-                "\n***************** SPOTIFY THIS SONG ******************\nArtist: " + info[0].artists[0].name +
+                "\n___________________SPOTIFY THIS SONG _________________\nArtist: " + info[0].artists[0].name +
                 "\nSong title: " + info[0].name +
                 "\nAlbum name: " + info[0].album.name +
                 "\nURL Preview: " + info[0].preview_url +
                 "\n*******************************************************\n"
             console.log(logSpotify)
-            fs.appendFile("log.txt", logSpotify, function (err) {
+            fs.appendFile("random.txt", "\r\nspotify-this-song,'"+ title, function(err) {
                 if (err) {
                     return console.log("Spotify song data was not appended to the log.txt file.")
                 }

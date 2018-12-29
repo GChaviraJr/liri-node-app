@@ -12,3 +12,16 @@ spotify-this-song <enter artist name>
   This will give info about the song as well as a clip of the song is available.
 do-what-it-says 
   This will pick a random command to do. 
+  
+  <div align="center">
+    <img src="images/Screen Shot 2018-12-29 at 9.12.35 AM.png" width="400px"</img> 
+</div>
+<br/>
+<div align="center">
+    <img src="images/Screen Shot 2018-12-29 at 9.12.56 AM.png" width="400px"</img> 
+</div>
+<br/>
+<div align="center">
+    <img src="images/Screen Shot 2018-12-29 at 9.14.08 AM.png" width="400px"</img> 
+</div>
+

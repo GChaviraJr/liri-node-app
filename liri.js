@@ -100,7 +100,7 @@ function movieInfo() {
                         "\nPlot: " + data.Plot +
                         "\nActors: " + data.Actors + "\n********************************************************************************\n"
                     console.log(logMovies)
-                    fs.appendFile("random.txt", "\r\nmovie-this,"+ title, function (err) {
+                    fs.appendFile("random.txt", "\r\nmovie-this, "+ title, function (err) {
                         if (err) {
                             return console.log("Movie data did not append to log.txt file.")
                         }
@@ -119,7 +119,7 @@ function movieInfo() {
                         "\n|Actors: " + data.Actors + "     |" +  
                         "\n|______________________________________________________________________|\n"
                     console.log(logMovies)
-                    fs.appendFile("random.txt", "\r\nmovie-this,"+ title, function (err) {
+                    fs.appendFile("random.txt", "\r\nmovie-this "+ title, function (err) {
                         if (err) {
                             return console.log("Movie data did not append to log.txt file.")
                         }
@@ -167,7 +167,7 @@ function concertInfo() {
             "\nVenue Event Date: " + moment(result.datetime).format("MM/DD/YYYY") +
             "\n**************************************************\n"
         console.log(logConcert)
-        fs.appendFile("random.txt", "\r\nconcert-this,'"+ artist, function (err) {
+        fs.appendFile("random.txt", "\r\nconcert-this "+ artist, function (err) {
             if (err) {
                 return console.log("Concert data was not appended to the log.txt file.")
             }
@@ -204,7 +204,7 @@ function spotifyInfo() {
                 "\nURL Preview: " + info[0].preview_url +
                 "\n*******************************************************\n"
             console.log(logSpotify)
-            fs.appendFile("random.txt", "\r\nspotify-this-song,'"+ title, function(err) {
+            fs.appendFile("random.txt", "\r\nspotify-this-song "+ title, function(err) {
                 if (err) {
                     return console.log("Spotify song data was not appended to the log.txt file.")
                 }
@@ -227,7 +227,7 @@ function spotifyInfo() {
 function doIt() {
     fs.readFile("random.txt", "utf8", function (err, data) {
         if (err) {
-            var logDoIt = ("\n************************** Do-What-It-Says *****************************\nThere was a problem reading the random.txt file. Please try again.\n********************************************************************************")
+            let logDoIt = ("\n************************** Do-What-It-Says *****************************\nThere was a problem reading the random.txt file. Please try again.\n********************************************************************************")
             return console.log(logDoIt)
             fs.appendFile("log.txt", logDoIt, function (err) {
                 if (err) {

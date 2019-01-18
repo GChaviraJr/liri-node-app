@@ -1,7 +1,8 @@
 # liri-node-app
 
-Liri is able to receive key commands in terminal and output data depending on what you ask it. 
+“I am making my contributions/ submissions to this project solely in my personal capacity and am not conveying any rights to any intellectual property of any third parties.”
 
+Liri is able to receive key commands in terminal and output data depending on what you ask it. 
 
 Key Commands and what they do:
 movie-this <enter movie title>
